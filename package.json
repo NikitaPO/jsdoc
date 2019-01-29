@@ -1,0 +1,11 @@
+{
+  "name": "js_20190129_jsdoc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NikitaPO/jsdoc.git",
+  "author": "NikitaPO <gigzim345@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jsdoc": "^3.5.5"
+  }
+}
