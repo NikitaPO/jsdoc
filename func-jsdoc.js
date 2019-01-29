@@ -4,6 +4,6 @@
 * принимает строку или ничто, в случае ничто возвращает безымянное приветствие
 */
 function sayHello(name = 'NikitaPO') {
-return `${hiWord}, ${name}!`;
+return `${hiWord},${name}!`;
 }
 console.log(sayHello());
